@@ -1,6 +1,6 @@
 # MacOS Getting Started
 
-ChatPC enables **safe and secure** interaction between ChatGPT and your computer. It gives ChatGPT the ability to read and modify local files, and interact with local applications while upholding strict access controls. You have the power to control precisely what actions ChatPC can perform and what data it can access.
+ChatPC enables **safe and secure** interaction between ChatGPT and your computer. It gives ChatGPT the ability to read and modify local files and interact with native applications, all while upholding strict access controls. You have the power to control precisely what actions ChatPC can perform and what data it can access.
 
 Follow the instructions below to get started.
 - [1. Install the ChatGPT plugin](#1-install-the-chatgpt-plugin)
