@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChatPC</title>
+        <item>
+            <title>0.6</title>
+            <pubDate>Sat, 10 Jun 2023 23:35:28 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dounan/chat-pc-site/releases/download/v0.6/ChatPC.v0.6.zip" length="2753405" type="application/octet-stream" sparkle:edSignature="/tkiCB5OPwlAkj3yMolEK4udM9MKdBLPXrYRP4OKOhFiThjMjPggeqFkoSSnWEfh22V1y1lnZxcdsCfoXrHxAQ=="/>
+        </item>
+    </channel>
+</rss>
