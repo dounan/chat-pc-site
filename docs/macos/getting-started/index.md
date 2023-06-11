@@ -138,6 +138,7 @@ ChatPC expects any added script files to abide by the following format:
     - `@description - Longer description of what the script does`
     - `@param {type} name - Description of the parameter` for each parameter (in order)
         - Type can be `boolean`, `number`, or `string`
+        - Type can be followed by a `?` to indicate it is optional (for example `string?`)
     - `@return {type} - Description of the return value`
         - Type can be `boolean`, `number`, `string`, or `void`
         - The description is optional if the type is `void`
