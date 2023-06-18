@@ -1,5 +1,15 @@
 <html>
   <body>
+    <script>
+      window.onload = function() {
+          const urlParams = new URLSearchParams(window.location.search);
+          const customerEmail = urlParams.get('customer-email');
+          if (customerEmail) {
+              const stripePricingTable = document.querySelector('stripe-pricing-table');
+              stripePricingTable.setAttribute('customer-email', customerEmail);
+          }
+      };
+    </script>
     <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
     <stripe-pricing-table
       pricing-table-id="prctbl_1NK82gD2JBiQZxokbmuyuuNl"
