@@ -9,13 +9,42 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#56877c" />
     <meta name="msapplication-TileColor" content="#56877c" />
     <meta name="theme-color" content="#56877c" />
+    <style>
+      body {
+        background-color: rgb(243, 249, 243);
+      }
+    </style>
   </head>
   <body>
+    <getting-started-instructions>
+      <h1>Get started for free!</h1>
+      <p class="instruction-text">
+        Follow the <a href="/docs/macos/getting-started/">MacOS getting started guide</a>.
+      </p>
+      <p>Currently only compatible with MacOS 13.0 and above.</p>
+    </getting-started-instructions>
+    <existing-user-instructions>
+      <h1>Purchase a subscription</h1>
+      <p class="instruction-text">Choose the plan that works for you.</p>
+    </existing-user-instructions>
     <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
     <stripe-pricing-table
       pricing-table-id="prctbl_1NJUyID2JBiQZxokN2R5OwN2"
       publishable-key="pk_live_51NJTTND2JBiQZxokSKTb96ZTSoFpzpGwdj9thFtEmVI3NxBficMiv94UL8ZsbzWoXDr2RSIyDPUk29x52ENrlvmR00bR04qY5j"
     >
     </stripe-pricing-table>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      const customerEmail = urlParams.get("customer-email");
+      if (customerEmail) {
+        document.querySelector("getting-started-instructions").remove();
+        const stripePricingTable = document.querySelector(
+          "stripe-pricing-table"
+        );
+        stripePricingTable.setAttribute("customer-email", customerEmail);
+      } else {
+        document.querySelector("existing-user-instructions").remove();
+      }
+    </script>
   </body>
 </html>
