@@ -4,10 +4,10 @@ ChatPC enables **safe and secure** interaction between ChatGPT and your computer
 
 Follow the instructions below to get started.
 - [1. Install the ChatGPT plugin](#1-install-the-chatgpt-plugin)
-- [2. Email support@chatpc.ai to get access to the beta](#2-email-supportchatpcai-to-get-access-to-the-beta)
-- [3. Install the MacOS Application](#3-install-the-macos-application)
-- [4. Give ChatPC access to desired folders](#4-give-chatpc-access-to-desired-folders)
-- [5. Add AppleScripts (and JXA) to enable advanced functionality](#5-add-applescripts-and-jxa-to-enable-advanced-functionality)
+- [2. Install the MacOS Application](#3-install-the-macos-application)
+- [3. Give ChatPC access to desired folders](#4-give-chatpc-access-to-desired-folders)
+- [4. Add AppleScripts (and JXA) to enable advanced functionality](#5-add-applescripts-and-jxa-to-enable-advanced-functionality)
+- [Subscription plans](#subscription-plans)
 - [Helpful prompts](#helpful-prompts)
 - [FAQ](#faq)
 - [Support](#support)
@@ -21,10 +21,7 @@ __⚠️ NOTE:__ ChatPC is currently in private beta. The plugin can only be ins
 1. Follow the instructions to install the plugin
 1. After installing, you will be redirected to a login page. Register for an account and login.
 
-## 2. Email support@chatpc.ai to get access to the beta
-Let us know the email address you signed up with so we can approve your account for the beta.
-
-## 3. Install the MacOS Application
+## 2. Install the MacOS Application
 
 __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai if you have an older version of MacOS.
 
@@ -51,7 +48,7 @@ __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai 
 
 1. Follow the instructions on the login page
 
-## 4. Give ChatPC access to desired folders
+## 3. Give ChatPC access to desired folders
 
 To ensure you are in control, ChatPC can only access folders that you explicitly give it access to. When you give ChatPC access to a folder, it can perform the following actions in the folder:
 
@@ -103,7 +100,7 @@ __PRO TIP__: when specifying a folder, you don't need to write out the entire pa
 - There is a limit to the size of file that can be read. Reading a file that exceeds this limit will result in an error.
 - Be mindful of the LLM's context window size, especially when reading large files.
 
-## 5. Add AppleScripts (and JXA) to enable advanced functionality
+## 4. Add AppleScripts (and JXA) to enable advanced functionality
 
 ChatPC can execute AppleScript files that you add, which allows you to utilize ChatPC to do anything on your computer that AppleScript can.
 
@@ -169,6 +166,10 @@ __PRO TIP__: You can ask ChatGPT to write scripts for you, but the results can b
 
 - There is a limit on the size of the script's return value. Returning a value that is larger than this limit will result in an error.
 - Be mindful of the LLM's context size, especially when return large values such as long strings.
+
+## Subscription plans
+
+The default free plans has a lifetime request limit as well as other limitations. To see the details of your account limits and explore other subscription options, ask ChatGPT for your "ChatPC account info".
 
 ## Helpful prompts
 
