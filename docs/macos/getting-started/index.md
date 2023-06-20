@@ -4,9 +4,9 @@ ChatPC enables **safe and secure** interaction between ChatGPT and your computer
 
 Follow the instructions below to get started.
 - [1. Install the ChatGPT plugin](#1-install-the-chatgpt-plugin)
-- [2. Install the MacOS Application](#3-install-the-macos-application)
-- [3. Give ChatPC access to desired folders](#4-give-chatpc-access-to-desired-folders)
-- [4. Add AppleScripts (and JXA) to enable advanced functionality](#5-add-applescripts-and-jxa-to-enable-advanced-functionality)
+- [2. Install the MacOS Application](#2-install-the-macos-application)
+- [3. Give ChatPC access to desired folders](#3-give-chatpc-access-to-desired-folders)
+- [4. Add AppleScripts (and JXA) to enable advanced functionality](#4-add-applescripts-and-jxa-to-enable-advanced-functionality)
 - [Subscription plans](#subscription-plans)
 - [Helpful prompts](#helpful-prompts)
 - [FAQ](#faq)
