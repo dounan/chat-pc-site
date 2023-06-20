@@ -165,7 +165,7 @@ __PRO TIP__: You can ask ChatGPT to write scripts for you, but the results can b
 
 ## Subscription plans
 
-The default free plans has a lifetime request limit as well as other limitations. To see the details of your account limits and explore other subscription options, ask ChatGPT for your "ChatPC account info".
+The default free plan has a lifetime request limit as well as other limitations. To see the details of your account limits and explore other subscription options, ask ChatGPT for your "ChatPC account info".
 
 ## Helpful prompts
 
