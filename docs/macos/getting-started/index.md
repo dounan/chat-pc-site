@@ -28,7 +28,7 @@ Let us know the email address you signed up with so we can approve your account 
 
 __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai if you have an older version of MacOS.
 
-1. [Download](/releases/ChatPC%200.6.dmg) the MacOS ChatPC application
+1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.8/ChatPC.v0.8.zip) the MacOS ChatPC application
 
 1. Open the .dmg file. This will mount the image to your Desktop and should automatically open it. If not, double click the ChatPC image on your Desktop.
 
