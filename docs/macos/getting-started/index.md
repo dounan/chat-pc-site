@@ -169,6 +169,12 @@ The default free plan has a lifetime request limit as well as other limitations.
 
 ## Helpful prompts
 
+### Ask ChatGPT for your ChatPC account info
+
+This returns your current subscription plan, usage, limits, and link to manage your account and subscribe to a new plan.
+
+> Get ChatPC account info
+
 ### Ask ChatGPT for the list of all available actions
 
 > What are the available actions for the ChatPC plugin?
