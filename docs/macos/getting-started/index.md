@@ -27,11 +27,7 @@ __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai 
 
 1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.8/ChatPC.v0.8.zip) the MacOS ChatPC application
 
-1. Open the .dmg file. This will mount the image to your Desktop and should automatically open it. If not, double click the ChatPC image on your Desktop.
-
-1. Drag the ChatPC application file into your `Applications` folder
-
-    ![install app](/images/macos-getting-started/install_app.png)
+1. Unzip the .zip file and move the application to your `/Applications` folder
 
 1. Open the ChatPC application
 
