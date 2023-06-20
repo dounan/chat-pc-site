@@ -1,4 +1,4 @@
-# chat-pc-site
+# Welcome to ChatPC!
 
 ChatPC enables **safe and secure** interaction between ChatGPT and your computer. It gives ChatGPT the ability to read and modify local files and interact with native applications, all while upholding strict access controls. You have the power to control precisely what actions ChatPC can perform and what data it can access.
 
