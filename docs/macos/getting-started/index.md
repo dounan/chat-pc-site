@@ -25,7 +25,7 @@ __⚠️ NOTE:__ ChatPC is currently in private beta. The plugin can only be ins
 
 __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai if you have an older version of MacOS.
 
-1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.8/ChatPC.v0.8.zip) the MacOS ChatPC application
+1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.9/ChatPC.v0.9.zip) the MacOS ChatPC application
 
 1. Unzip the .zip file and move the application to your `/Applications` folder
 
@@ -87,6 +87,14 @@ Try out the following prompts in ChatGPT with the DeskopGPT plugin enabled:
 > Write me a joke and save it in a new file in the ___ folder
 
 __PRO TIP__: when specifying a folder, you don't need to write out the entire path to the folder. The AI is smart enough to figure out the full folder path as long as it has seen all available folders already. For example, the following folder `/Users/fakeuser/Documents/ChatPC_sandbox` can simply be referred to as "the sandbox folder".
+
+### Enabling question and answering
+
+Enabling question and answering on a folder lets turns the folder into an accessible knowledge base that can be queried through ChatGPT. This allows you to interact with your local data more intuitively through question and answering.
+
+For example, imagine you have a local folder titled "AI Research Papers" filled with up-to-date AI papers. After you've added this folder via ChatPC settings and switched on its question and answer capability, you could prompt ChatGPT like this: "ask AI papers: what is GPT-4?".
+
+When quesiton and answering is enabled, ChatPC will index all the files in the folders to enable efficient searching, and store the index locally on your computer. When the contents of the folder changes, you will need to manually click the "Reindex" button to update the index with the latest contents (automatic re-indexing may be implemented in a future release if there is enough demand).
 
 ### Limitations
 
