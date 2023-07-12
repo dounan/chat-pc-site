@@ -4,12 +4,12 @@
         <title>ChatPC</title>
         <item>
             <title>0.10</title>
-            <pubDate>Tue, 11 Jul 2023 08:00:27 -0700</pubDate>
+            <pubDate>Wed, 12 Jul 2023 08:10:45 -0700</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://github.com/dounan/chat-pc-site/releases/download/v0.10/ChatPC.v0.10.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dounan/chat-pc-site/releases/download/v0.10/ChatPC.v0.10.zip" length="64039917" type="application/octet-stream" sparkle:edSignature="fXmLGXfckZ5xmIq8duhS9bB0Hg+od17BcqYPtwzh5j+K8Wgb4BEJ1U3GVDLNccgebNyrmO2r8WjdadfNyfkADA=="/>
+            <enclosure url="https://github.com/dounan/chat-pc-site/releases/download/v0.10/ChatPC.v0.10.zip" length="64036711" type="application/octet-stream" sparkle:edSignature="O9VZgZcPvzfk9+b0C4Q3KyJrl7CWuMT93b0Y6LPaliwvkq1yf/9Bg62hqbrNnI6JvD6SjpeJHnyE5fin7oJbBw=="/>
         </item>
     </channel>
 </rss>
