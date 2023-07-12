@@ -25,7 +25,7 @@ __⚠️ NOTE:__ ChatPC is currently in private beta. The plugin can only be ins
 
 __⚠️ NOTE:__ Requires MacOS 13.0 and higher. Please email support@chatpc.ai if you have an older version of MacOS.
 
-1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.9/ChatPC.v0.9.zip) the MacOS ChatPC application
+1. [Download](https://github.com/dounan/chat-pc-site/releases/download/v0.10/ChatPC.v0.10.zip) the MacOS ChatPC application
 
 1. Unzip the .zip file and move the application to your `/Applications` folder
 
@@ -80,11 +80,11 @@ For each permission type, you can select one of the following options:
 
 Try out the following prompts in ChatGPT with the DeskopGPT plugin enabled:
 
-> List my local folders
-
 > List the files in the ___ folder
 
 > Write me a joke and save it in a new file in the ___ folder
+
+> Summarize some_very_long.pdf in my reading list folder
 
 __PRO TIP__: when specifying a folder, you don't need to write out the entire path to the folder. The AI is smart enough to figure out the full folder path as long as it has seen all available folders already. For example, the following folder `/Users/fakeuser/Documents/ChatPC_sandbox` can simply be referred to as "the sandbox folder".
 
