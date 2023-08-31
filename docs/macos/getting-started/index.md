@@ -34,7 +34,9 @@ Follow the instructions below to get started.
 
     ![opened app](/images/macos-getting-started/opened_app_arrow.png)
 
-1. The app should open a window with a login button. If it does not, click the ChatPC menu bar icon > `Settings` > `General`.
+1. The settings window should automatically open. If it does not, click the ChatPC menu bar icon > `Settings` > `General`.
+
+    ![login settings](/images/macos-getting-started/login-settings.png)
 
 1. Click the `Login` button which will open a login window in your web browser.
 
