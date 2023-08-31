@@ -22,19 +22,23 @@ Follow the instructions below to get started.
 
 1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.12/ChatPC.v0.12.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
-1. Unzip the .zip file and move the `ChatPC` application to your `/Applications` folder
+1. Unzip the .zip file.
 
-1. Open the ChatPC application
+1. Move the extracted `ChatPC` application file to your `Applications` folder.
+
+    ![move app to applications folder](/images/macos-getting-started/move-app.png)
+
+1. Go to your `Applications` folder and open the `ChatPC` application.
 
 1. The app should appear in the MacOS menu bar at the top right of your screen.
 
     ![opened app](/images/macos-getting-started/opened_app_arrow.png)
 
-1. The app should open a window with a login button. If it does not, click the ChatPC menu bar icon > `Settings` > `General`
+1. The app should open a window with a login button. If it does not, click the ChatPC menu bar icon > `Settings` > `General`.
 
-1. Click the `Login` button which will open a login window in your web browser
+1. Click the `Login` button which will open a login window in your web browser.
 
-1. Follow the instructions on the login page
+1. Follow the instructions on the login page.
 
 ## Basic chats
 
