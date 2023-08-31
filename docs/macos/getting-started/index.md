@@ -78,6 +78,18 @@ ChatPC allows you to chat with selected text or Finder files.
 
     ![chat response](/images/macos-getting-started/chat-response.png)
 
+## Managing previous chats
+
+1. Use the title bar to view previous chats, delete chats, and start a new chat.
+
+    ![chat management](/images/macos-getting-started/chat-management.png)
+
+1. The delete button reveals 3 options:
+
+    1. **Delete current chat** - Delete the current active chat (only visible if there is an active chat).
+    1. **Delete older chats** - Delete all chats older than the current active chat (only visible if there is an active chat).
+    1. **Delete all chats** - Delete all chats.
+
 ## Keyboard shortcuts
 
 | Action | Shortcut |
