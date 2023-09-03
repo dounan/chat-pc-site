@@ -10,9 +10,11 @@ ChatPC brings the power of AI and GPT-4 to your fingertips!
 
 Follow the instructions below to get started.
 - [Install the MacOS Application](#install-the-macos-application)
+- [Permissions](#permissions)
 - [Basic chats](#basic-chats)
 - [Chat with selection](#chat-with-selection)
 - [Using the AI response](#using-the-ai-response)
+- [Acccessing settings](#acccessing-settings)
 - [Keyboard shortcuts](#keyboard-shortcuts)
 - [Subscription plans](#subscription-plans)
 - [FAQ](#faq)
@@ -34,23 +36,49 @@ Follow the instructions below to get started.
 
     ![opened app](/images/macos-getting-started/opened_app_arrow.png)
 
-1. The settings window should automatically open. If it does not, click the ChatPC menu bar icon > `Settings` > `General`.
+1. The settings window should automatically open. If it does not, right-click (or control-click) the ChatPC menu bar icon, and click `Settings` > `General`.
 
-    ![login settings](/images/macos-getting-started/login-settings.png)
+    ![settings](/images/macos-getting-started/signup-settings.png)
 
-1. Click the `Login` button which will open a login window in your web browser.
+1. Click the `Sign up` button and click `Continue` in the popup. This will open a sign up window in your web browser.
 
-1. Follow the instructions on the login page.
+    ![sign up](/images/macos-getting-started/signup-alert.png)
+
+1. Follow the instructions on the sign up page.
+
+## Permissions
+
+1. ChatPC requires certain permissions in order to provide a convenient and simple user experience for you.
+
+1. These permissions will be prompted for at the time they are needed.
+
+1. To chat with the current selected text, ChatPC needs access to:
+
+    1. `System Events`
+
+        ![system events permission alert](/images/macos-getting-started/system-events-alert.png)
+
+    1. `Accessibility features` (you can change this setting anytime in your Mac's `System Settings` > `Privacy & Security` > `Accessibility`)
+
+        ![accessibility permission alert](/images/macos-getting-started/accessibility-alert.png)
+
+        ![accessibility permission alert](/images/macos-getting-started/accessibility-enable.png)
+
+1. To chat with the current selected file in Finder, Chat PC needs access to `Finder`.
+
+    ![finder permission alert](/images/macos-getting-started/finder-alert.png)
 
 ## Basic chats
 
-1. Open the chat window by using the global shortcut `Control-Space` (can be changed in settings).
+1. Open the chat window by clicking the menu bar icon or using the global shortcut `Control-Space` (can be changed under `Settings` > `Chat`).
 
 1. Type your request for your AI assistant. New lines can be inserted with `Option-Return`.
 
     ![empty chat](/images/macos-getting-started/empty-chat.png)
 
 1. Press `Return` or click the arrow button to send your message.
+
+1. Close the chat window by hitting the `esc` key, or clicking anywhere outside the chat window.
 
 ## Chat with selection
 
@@ -89,6 +117,10 @@ ChatPC allows you to chat with selected text or Finder files.
     1. **Delete current chat** - Delete the current active chat (only visible if there is an active chat).
     1. **Delete older chats** - Delete all chats older than the current active chat (only visible if there is an active chat).
     1. **Delete all chats** - Delete all chats.
+
+## Acccessing settings
+
+To access settings and other options, right-click (or control-click) the ChatPC menu bar icon.
 
 ## Keyboard shortcuts
 
