@@ -20,7 +20,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.12/ChatPC.v0.12.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.13/ChatPC.v0.13.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -56,7 +56,7 @@ Follow the instructions below to get started.
 
 ChatPC allows you to chat with selected text or Finder files.
 
-1. Select some text in any application, or highlight a file in Finder
+1. Select some text in any application or a file in Finder
 
 1. Open the chat window with `Control-Space`.
 
