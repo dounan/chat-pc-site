@@ -3,13 +3,13 @@
     <channel>
         <title>ChatPC</title>
         <item>
-            <title>0.13</title>
-            <pubDate>Sat, 02 Sep 2023 21:19:48 -0700</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+            <title>0.14</title>
+            <pubDate>Mon, 04 Sep 2023 01:18:28 -0700</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/dounan/chat-pc-site/releases/download/v0.13/ChatPC.v0.13.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/dounan/chat-pc-site/releases/download/v0.13/ChatPC.v0.13.zip" length="65503021" type="application/octet-stream" sparkle:edSignature="g5gIrJmdT7OR8rUWoFtxmhPzPYWjqTpSH0D2+kxfHMWpc7R56pV7OVoXK+LqPUr1myLsa57Nkp45ND6IXatsCA=="/>
+            <sparkle:releaseNotesLink>https://github.com/dounan/chat-pc-site/releases/download/v0.14/ChatPC.v0.14.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/dounan/chat-pc-site/releases/download/v0.14/ChatPC.v0.14.zip" length="65563215" type="application/octet-stream" sparkle:edSignature="rmiF7Wneb47Kcb5G1NoACrv1XEoOvFEwqAD+7CJ/qyArYpvnhES1t4OxQVktsN7vkGxrY+OApjs2zSfyJZoxAg=="/>
         </item>
     </channel>
 </rss>

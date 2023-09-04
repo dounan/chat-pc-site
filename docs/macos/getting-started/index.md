@@ -15,6 +15,8 @@ Follow the instructions below to get started.
 - [Chat with selection](#chat-with-selection)
 - [Using the AI response](#using-the-ai-response)
 - [Acccessing settings](#acccessing-settings)
+- [Custom one-click prompts](#custom-one-click-prompts)
+- [Managing previous chats](#managing-previous-chats)
 - [Keyboard shortcuts](#keyboard-shortcuts)
 - [Subscription plans](#subscription-plans)
 - [FAQ](#faq)
@@ -22,7 +24,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.13/ChatPC.v0.13.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.14/ChatPC.v0.14.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -106,6 +108,20 @@ ChatPC allows you to chat with selected text or Finder files.
 
     ![chat response](/images/macos-getting-started/chat-response.png)
 
+## Acccessing settings
+
+To access settings and other options, right-click (or control-click) the ChatPC menu bar icon.
+
+## Custom one-click prompts
+
+1. You can add your own custom one-click prompts for selected text under `Settings` > `Chat`
+
+    ![custom prompts settings](/images/macos-getting-started/custom-prompts-settings.png)
+
+    ![custom prompts example](/images/macos-getting-started/custom-prompts-example.png)
+
+    ![custom prompts usage](/images/macos-getting-started/custom-prompts-in-chat.png)
+
 ## Managing previous chats
 
 1. Use the title bar to view previous chats, delete chats, and start a new chat.
@@ -117,10 +133,6 @@ ChatPC allows you to chat with selected text or Finder files.
     1. **Delete current chat** - Delete the current active chat (only visible if there is an active chat).
     1. **Delete older chats** - Delete all chats older than the current active chat (only visible if there is an active chat).
     1. **Delete all chats** - Delete all chats.
-
-## Acccessing settings
-
-To access settings and other options, right-click (or control-click) the ChatPC menu bar icon.
 
 ## Keyboard shortcuts
 
