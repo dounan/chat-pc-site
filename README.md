@@ -1,11 +1,41 @@
-# Welcome to ChatPC!
+<br>
+<br>
+<br>
 
-ChatPC brings the power of AI and GPT-4 to your fingertips!
+# Mac automation meets AI
 
-- **Ask AI anything, anytime, anywhere** - Open the AI chat window anytime with a global hotkey
-- **Write with confidence** - Let AI improve the writing, fix spelling and grammar, change the tone, and more with just one click
-- **Read faster and build deeper understanding** - Select any text *or file* to summarize, explain, list takeaways, translate, and more
-- **Quickly reply to anything with ease** - Let AI create replies for you in various tones (like, dislike, empathetic, joking, etc)
-- **No more copying and pasting** - Insert AI responses with a click of a button (or via hotkey `Command-Return`)
+## Let AI do all the hard work
 
-To get started, check out the [MacOS Getting Started Guide](/docs/macos/getting-started/)
+ChatPC manages your files and automates your Mac application through Shortcuts and AppleScripts.
+
+<video src="images/landing/compose-email.mp4" muted autoplay loop>
+  <p>
+    Your browser doesn't support HTML video. Here is a
+    <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
+  </p>
+</video>
+
+## [Click here to get started for free!](/docs/macos/getting-started/)
+
+_(MacOS 13.0 or higher required)_
+
+## Integrate seemlessly into your workflows
+
+In addition to the built-in ChatPC chat interface, you can also prompt ChatPC inside your Shortcuts or AppleScripts!
+
+![Prompt with Shortcuts](/images/landing/prompt-with-shortcuts.png)
+![Prompt with Shortcuts](/images/landing/prompt-with-applescript.png)
+
+## How does it work?
+
+1. Enable ChatPC to perform actions by adding folders, Shortcuts, and AppleScripts
+
+1. Prompt ChatPC through the built-in chat interface, a Shortcut, or an AppleScript
+
+1. ChatPC's AI (powered by OpenAI GPT-3 and GPT-4) decides what actions to take and executes them
+
+![How it works](/images/landing/how-it-works.png)
+
+## Get started for free!
+
+To get started, check out the [MacOS Getting Started Guide](/docs/macos/getting-started/) (MacOS 13.0 or higher required) or explore our [subscription plans](/plans/).
