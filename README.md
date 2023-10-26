@@ -1,8 +1,6 @@
 <br>
-<br>
-<br>
 
-# Mac automation meets AI
+# ChatPC - Mac automation meets AI
 
 ## Let AI do all the hard work
 
