@@ -1,8 +1,4 @@
-<br>
-
-# ChatPC - Mac automation meets AI
-
-## Let AI do all the hard work
+# Mac automation meets AI
 
 Use simple English to automate your Mac, from managing files to interacting with other Mac applications through Shortcuts and AppleScripts.
 
