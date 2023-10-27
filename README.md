@@ -4,7 +4,7 @@
 
 ## Let AI do all the hard work
 
-ChatPC manages your files and automates your Mac application through Shortcuts and AppleScripts.
+Use simple English to automate your Mac, from managing files to interacting with other Mac applications through Shortcuts and AppleScripts.
 
 <video src="images/landing/compose-email.mp4" muted autoplay loop>
   <p>
