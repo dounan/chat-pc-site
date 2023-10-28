@@ -10,9 +10,15 @@
     {% include head-custom.html %}
 
     <style>
+      .header {
+        display: flex;
+        align-items: center; /* Vertically aligns child elements */
+        justify-content: space-between; /* Pushes site.title and navbar to the edges */
+      }
+
       .navbar {
-        float: right;
         font-size: 16px;
+        font-weight: normal;
       }
 
       .navbar a {
