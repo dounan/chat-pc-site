@@ -11,6 +11,10 @@ Use simple English to automate your Mac, from managing files to interacting with
 
 ## [Click here to get started for free!](/docs/macos/getting-started/)
 
+## Safe by design
+
+With ChatPC, you are in total control. By default, ChatPC cannot execute any actions on your Mac. You must explicitly give ChatPC access to the folders, AppleScripts, and Shortcuts that it can action on. In addition, you can configure which actions require your explicit approval before executing.
+
 ---
 
 ## Integrate seemlessly into your workflows
