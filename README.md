@@ -11,7 +11,7 @@ Use simple English to automate your Mac, from managing files to interacting with
 
 ## [Click here to get started for free!](/docs/macos/getting-started/)
 
-_(MacOS 13.0 or higher required)_
+---
 
 ## Integrate seemlessly into your workflows
 
