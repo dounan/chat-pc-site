@@ -5,12 +5,11 @@
     <a href="/docs/macos/getting-started/">Click here to get started for free</a>.
   </p>
   <h1>Looking for more credits?</h1>
-  <p>Check out one of our subsciption plans below.</p>
-  <p>Get <b>2 months free</b> with a yearly subscription!</p>
+  <p>Check out our subsciption plans below. Get <b>2 months free</b> with a yearly subscription!</p>
 </getting-started-instructions>
 <existing-user-instructions>
   <h1>Purchase a subscription</h1>
-  <p class="instruction-text">Choose the plan that works for you.</p>
+  <p class="instruction-text">Get <b>2 months free</b> with a yearly subscription!</p>
 </existing-user-instructions>
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
