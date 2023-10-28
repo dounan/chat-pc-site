@@ -1,20 +1,26 @@
 <getting-started-instructions>
   <h1>Get started for free!</h1>
-  <p class="instruction-text">
-    Follow the <a href="/docs/macos/getting-started/">MacOS getting started guide</a>.
+  <p>
+    The free plan comes with all the features and has a lifetime limit of 20,000 credits.
+    <a href="/docs/macos/getting-started/">Click here to get started for free</a>.
   </p>
-  <p>Currently only compatible with MacOS 13.0 and above.</p>
+  <h1>Looking for more credits?</h1>
+  <p>Check out one of our subsciption plans below.</p>
   <p>Get <b>2 months free</b> with a yearly subscription!</p>
 </getting-started-instructions>
 <existing-user-instructions>
   <h1>Purchase a subscription</h1>
   <p class="instruction-text">Choose the plan that works for you.</p>
 </existing-user-instructions>
+
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table
-  pricing-table-id="prctbl_1NjsheD2JBiQZxokSpWULstH"
-  publishable-key="pk_live_51NJTTND2JBiQZxokSKTb96ZTSoFpzpGwdj9thFtEmVI3NxBficMiv94UL8ZsbzWoXDr2RSIyDPUk29x52ENrlvmR00bR04qY5j">
-</stripe-pricing-table>
+<div style="margin: 30px 0">
+  <stripe-pricing-table
+    pricing-table-id="prctbl_1NjsheD2JBiQZxokSpWULstH"
+    publishable-key="pk_live_51NJTTND2JBiQZxokSKTb96ZTSoFpzpGwdj9thFtEmVI3NxBficMiv94UL8ZsbzWoXDr2RSIyDPUk29x52ENrlvmR00bR04qY5j">
+  </stripe-pricing-table>
+</div>
+
 <p>
   * Each AI model consumes different amounts of credits
 </p>
@@ -23,7 +29,7 @@
   <li>GPT-4: 1 token consumes 20 credits</li>
 </ul>
 <p>
-  Here are some helpful rules of thumb for understanding tokens in terms of lengths:
+  Here are some helpful rules of thumb for understanding tokens:
 </p>
 <ul>
   <li>1 token ~= 4 characters in English</li>
