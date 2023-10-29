@@ -13,7 +13,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.17/ChatPC.v0.17.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.18/ChatPC.v0.18.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -85,6 +85,8 @@ ChatPC can also run arbitrary AppleScript that you provide, with a few requireme
     - `(* ... *)` for AppleScript
     - `/* ... */` for JavaScript (JXA)
 2. The comment block must contain the following tags that describe the script:
+    - `@permission {permissionType}`
+        - Permission type can be `allow`, `ask`, `block` (to disable the script)
     - `@summary - Short summary of what the script does`
     - `@description - Longer description of what the script does`
     - `@param {type} name - Description of the parameter` for each parameter (in order)
@@ -100,6 +102,7 @@ Here is an example of a valid script:
 
 ```
 /*
+@permission {ask}
 @summary Search contacts
 @description Search through all contacts by all fields and returns a vCard representation for each matching contact
 @param {string} searchString - The string to search for
