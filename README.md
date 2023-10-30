@@ -23,6 +23,10 @@ By default, ChatPC can't access any of your files or run any Shortcuts or AppleS
 
 Ensure even more security by configuring which actions need your approval before executing.
 
+### 🔐 End-to-end data privacy
+
+Your data is your data. It is never used for training models and all communication between ChatPC and OpenAI are encrypted. See OpenAI's [Enterprise Privacy](https://openai.com/enterprise-privacy) for more information.
+
 ---
 
 ## Integrate seemlessly into your workflows
