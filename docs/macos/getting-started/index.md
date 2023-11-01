@@ -13,7 +13,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.18/ChatPC.v0.18.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.19/ChatPC.v0.19.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -252,6 +252,8 @@ ChatPC allows you to chat with selected text.
 The default free plan has a lifetime token limit as well as other limitations. You can manage your subscription plan in the app settings.
 
 Check out the different subscription plans at https://chatpc.ai/plans!
+
+With a subscription plan, you can enter your own OpenAI API key to avoid using credits or if you run out of credits. You can set your OpenAI API key under `Chat` settings.
 
 ## FAQ
 
