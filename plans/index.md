@@ -23,10 +23,24 @@
 <p>
   * Each AI model consumes different amounts of credits
 </p>
-<ul>
-  <li>GPT-3: 1 token consumes 1 credit</li>
-  <li>GPT-4: 1 token consumes 20 credits</li>
-</ul>
+<table>
+  <tr>
+    <th>Model</th>
+    <th>1 token consumes</th>
+  </tr>
+  <tr>
+    <td>gpt-3.5-turbo</td>
+    <td>1 credit</td>
+  </tr>
+  <tr>
+    <td>gpt-4</td>
+    <td>30 credit</td>
+  </tr>
+  <tr>
+    <td>gpt-4-1106-preview</td>
+    <td>15 credit</td>
+  </tr>
+</table>
 <p>
   Here are some helpful rules of thumb for understanding tokens:
 </p>

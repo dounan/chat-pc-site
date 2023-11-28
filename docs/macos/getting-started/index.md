@@ -13,7 +13,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.19/ChatPC.v0.19.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.20/ChatPC.v0.20.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -246,6 +246,10 @@ ChatPC allows you to chat with selected text.
 | Send message | `Return` |
 | Insert new line in message | `Option-Return` |
 | Insert last AI response into frontmost app | `Command-Return` |
+| New chat | `Command-N` |
+| Go to next chat | `Command-J` |
+| Go to previous chat | `Command-K` |
+| Delete current chat | `Command-D` |
 
 ## Subscription plans
 
