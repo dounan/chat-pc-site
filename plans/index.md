@@ -1,7 +1,8 @@
 <getting-started-instructions>
   <h1>Get started for free!</h1>
   <p>
-    The free plan comes with all the features and has a lifetime limit of 20,000 credits.
+    The free plan comes with all the features and has a lifetime limit of 20,000 credits and 75 <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank" style="color: inherit; text-decoration: underline;">ChatPC GPT</a> requests.
+    <br />
     <a href="/docs/macos/getting-started/">Click here to get started for free</a>.
   </p>
   <h1>Looking for more credits?</h1>
