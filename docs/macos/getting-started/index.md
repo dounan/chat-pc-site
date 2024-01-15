@@ -13,7 +13,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.20/ChatPC.v0.20.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.21/ChatPC.v0.21.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
@@ -98,23 +98,21 @@ ChatPC can also run arbitrary AppleScript that you provide, with a few requireme
 3. The script must contain an entry point function that has the same name as the script. This function should take in the parameters described in the comment block (in the same order) and return the value as described in the comment block.
 4. The script may contain other helper functions as needed.
 
-Here is an example of a valid script:
+Here is an example of a valid script named `openFile.scpt`:
 
 ```
-/*
+(*
 @permission {ask}
-@summary Search contacts
-@description Search through all contacts by all fields and returns a vCard representation for each matching contact
-@param {string} searchString - The string to search for
-@return {string} JSON array of vCard strings of matching contacts
-*/
-function searchContacts(searchString) {
-    let app = Application("Contacts");
-	const vcards = app.people()
-		.map(p => p.vcard())
-	    .filter(vcard => vcard.toLowerCase().includes(searchString.toLowerCase()));
-	return JSON.stringify(vcards);
-}
+@summary Open a file by its URL
+@description This script opens a file located at a specified URL
+@param {string} fileURL - The URL of the file to be opened
+@return {void}
+*)
+on openFile(fileURL)
+	tell application "Finder"
+		open location fileURL
+	end tell
+end openFile
 ```
 
 You can [download and unzip more example scripts here](/releases/example-scripts.zip).
