@@ -2,7 +2,7 @@
 
 Use simple English to automate your Mac, from managing files to interacting with other Mac applications through Shortcuts and AppleScripts.
 
-<video src="images/landing/compose-email.mp4" muted autoplay loop>
+<video src="images/landing/compose-email.mp4" muted autoplay loop controls>
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
