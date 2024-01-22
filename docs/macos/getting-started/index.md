@@ -154,26 +154,18 @@ For each permission type, you can select one of the following options:
 
 You can interact and prompt the ChatPC AI assistant in different ways.
 
-1. Chat through the built in [chat UI](#using-the-chat-ui). The AI model can be selected when starting a new conversation. The following models are supported:
-
-    1. `gpt-3.5-turbo` - uses 1 credit per token
-
-    1. `gpt-3.5-turbo-16k` - uses 2 credits per token
-
-    1. `gpt-4` - uses 20 credits per token. This model will give the best results, especially for more complex tasks.
-
-    1. For more information on these models, see the [OpenAI documentation](https://platform.openai.com/docs/models/overview).
+1. Chat through the built in [chat UI](#using-the-chat-ui). The AI model can be selected when starting a new conversation.
 
 1. Prompt it as part of a Shortcut.
 
     ![prompt via Shortcuts](/images/macos-getting-started/prompt-via-shortcuts.png)
 
-1. Prompt it as part of an AppleScript. The model parameter is optional and defaults to `gpt-3.5-turbo`.
+1. Prompt it as part of an AppleScript. The model parameter is optional and defaults to the model set in the built in chat UI.
 
 ```
 tell application "ChatPC"
 	log (prompt with message "write me a short poem")
-	log (prompt "gpt-4" with message "write me a better poem")
+	log (prompt "gpt-4" with message "write me a short poem")
 end tell
 ```
 
