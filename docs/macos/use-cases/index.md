@@ -10,7 +10,7 @@ layout: macos-docs
 - [Summarize a local PDF](#summarize-a-local-pdf)
 - [Summarize the current Safari page](#summarize-the-current-safari-page)
 - [Analyze journal entries from Notes](#analyze-journal-entries-from-notes)
-- [Quiz yourself on class notes from notes](#quiz-yourself-on-class-notes-from-notes)
+- [Quiz yourself on class Notes](#quiz-yourself-on-class-notes)
 - [Clean up unread Mail](#clean-up-unread-mail)
 - [Automatically coordinates events based on your Calendar availability](#automatically-coordinates-events-based-on-your-calendar-availability)
 
