@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div>
+    <style scoped>
+      body {
+        display: flex;
+      }
+
+      .sidebar {
+        width: 200px; /* Adjust based on preference */
+        height: 100vh;
+        position: fixed;
+        background-color: #f4f4f4; /* Light grey background */
+        padding: 20px;
+      }
+
+      .sidebar a {
+        display: block;
+        padding: 10px;
+        margin: 5px 0;
+        text-decoration: none;
+        color: #333;
+      }
+
+      .content {
+        margin-left: 200px; /* Adjust based on the width of the sidebar */
+        padding: 20px;
+      }
+    </style>
+
+    <div class="sidebar">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/services/">Services</a>
+      <a href="/contact/">Contact</a>
+    </div>
+
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
