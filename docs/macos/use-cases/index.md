@@ -108,7 +108,7 @@ Your response should be only the list of junk emails. Each list item starts with
 Then tell me the total number of emails that were categorized as junk vs total emails analyzed.
 ```
 
-## Automatically coordinates events via based on your Calendar availability
+## Automatically coordinates events based on your Calendar availability
 
 <video src="https://github.com/dounan/chat-pc-site/assets/1095431/2bcf7b1c-9c6a-4103-9687-9f321773913d" muted loop controls>
   <p>
