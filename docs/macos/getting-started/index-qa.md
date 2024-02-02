@@ -1,3 +1,7 @@
+---
+layout: macos-docs
+---
+
 # MacOS Getting Started
 
 Follow the instructions below to get started.

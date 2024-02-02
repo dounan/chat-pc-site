@@ -1,6 +1,10 @@
+---
+layout: macos-docs
+---
+
 # Chat with selected text
 
-### Chat with selection
+## Chat with selection
 
 ChatPC allows you to chat with selected text.
 
@@ -16,7 +20,7 @@ ChatPC allows you to chat with selected text.
 
 1. Use one of the one click actions, or write your own message like a normal chat.
 
-### Using the AI response
+## Using the AI response
 
 1. You can copy the AI response with a click of a button.
 
@@ -24,7 +28,7 @@ ChatPC allows you to chat with selected text.
 
     ![chat response](/images/macos-getting-started/chat-response.png)
 
-### Custom one-click prompts
+## Custom one-click prompts
 
 1. You can add your own custom one-click prompts for selected text under `Settings` > `Chat`. Drag and drop the prompts to reorder.
 

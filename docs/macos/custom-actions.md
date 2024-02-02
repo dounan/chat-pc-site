@@ -2,11 +2,11 @@
 layout: macos-docs
 ---
 
-# Adding custom actions
+# Add custom actions
 
-### AppleScripts actions
+## AppleScripts
 
-ChatPC can also run arbitrary AppleScript files that you place in the designated folder.
+ChatPC can also run arbitrary AppleScript files that you place in the designated folder found at `Settings > Actions > AppleScripts > Show in Finder`.
 
 The script must follow the following rules:
 
@@ -44,9 +44,9 @@ on openFile(fileURL)
 end openFile
 ```
 
-You can [download and unzip more example scripts here](/releases/example-scripts.zip).
+You can [download more example scripts here](/releases/example-scripts.zip).
 
-### Shortcuts actions
+## Shortcuts
 
 1. ChatPC can run Shortcuts from your Mac's Shortcuts application.
 
