@@ -19,7 +19,7 @@ layout: macos-docs
 
 Turn any folder into a local knowledgebase that you can ask questions on.
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/bb0ff036-5264-4b35-a77e-64e7346544df" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/bb0ff036-5264-4b35-a77e-64e7346544df" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/bb0ff036-5264-4b35-a77e-64e7346544df">link to the demo video</a> instead.
@@ -32,7 +32,7 @@ Go to `Settings > Actions > Finder`, add your folder, select it, and enable `Kno
 
 ## Organize documents
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/46527683-938c-4074-850e-2f3a625e49f5" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/46527683-938c-4074-850e-2f3a625e49f5" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/46527683-938c-4074-850e-2f3a625e49f5">link to the demo video</a> instead.
@@ -49,7 +49,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 ## Rename files based on their contents
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/1709f6c0-38d7-4c0c-a35f-4d032702b481" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/1709f6c0-38d7-4c0c-a35f-4d032702b481" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/1709f6c0-38d7-4c0c-a35f-4d032702b481">link to the demo video</a> instead.
@@ -59,7 +59,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 ## Summarize a local PDF
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/e354f992-2c55-4668-9929-d1e652946dc1" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/e354f992-2c55-4668-9929-d1e652946dc1" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/e354f992-2c55-4668-9929-d1e652946dc1">link to the demo video</a> instead.
@@ -68,7 +68,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 ## Summarize the current Safari page
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/f224f0a0-13c3-44f1-b7d1-71ca0a095c05" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/f224f0a0-13c3-44f1-b7d1-71ca0a095c05" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/f224f0a0-13c3-44f1-b7d1-71ca0a095c05">link to the demo video</a> instead.
@@ -77,7 +77,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 ## Analyze journal entries from Notes
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/270d30aa-dae6-43ee-92d5-a580b84e2898" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/270d30aa-dae6-43ee-92d5-a580b84e2898" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/270d30aa-dae6-43ee-92d5-a580b84e2898">link to the demo video</a> instead.
@@ -86,7 +86,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 ## Quiz yourself on class Notes
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/7e72f3a9-8e3b-45b0-b53b-c4177c3133ab" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/7e72f3a9-8e3b-45b0-b53b-c4177c3133ab" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/7e72f3a9-8e3b-45b0-b53b-c4177c3133ab">link to the demo video</a> instead.
@@ -97,7 +97,7 @@ Only move files that you are confident in based on file name alone and do not mo
 
 Automatically categorize and clean up unread email.
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/845a3b1c-9b7d-4df0-a2ef-ce9fe78a9579" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/845a3b1c-9b7d-4df0-a2ef-ce9fe78a9579" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/845a3b1c-9b7d-4df0-a2ef-ce9fe78a9579">link to the demo video</a> instead.
@@ -116,7 +116,7 @@ Then tell me the total number of emails that were categorized as junk vs total e
 
 ## Automatically coordinates events based on your Calendar availability
 
-<video src="https://github.com/dounan/chat-pc-site/assets/1095431/2bcf7b1c-9c6a-4103-9687-9f321773913d" muted loop controls>
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/2bcf7b1c-9c6a-4103-9687-9f321773913d" muted loop controls style="width: 100%">
   <p>
     Your browser doesn't support HTML video. Here is a
     <a href="https://github.com/dounan/chat-pc-site/assets/1095431/2bcf7b1c-9c6a-4103-9687-9f321773913d">link to the demo video</a> instead.
