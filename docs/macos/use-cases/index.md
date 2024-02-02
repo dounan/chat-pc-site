@@ -12,7 +12,7 @@ layout: macos-docs
 - [Analyze journal entries from Notes](#analyze-journal-entries-from-notes)
 - [Quiz yourself on class notes from notes](#quiz-yourself-on-class-notes-from-notes)
 - [Clean up unread Mail](#clean-up-unread-mail)
-- [Automatically coordinates events via based on your Calendar availability](#automatically-coordinates-events-via-based-on-your-calendar-availability)
+- [Automatically coordinates events based on your Calendar availability](#automatically-coordinates-events-based-on-your-calendar-availability)
 
 
 ## Ask questions on folder contents
@@ -35,7 +35,8 @@ Turn any folder into a local knowledgebase that you can ask questions on.
   </p>
 </video>
 
-Prompt:
+#### Prompt
+
 ```
 Based on file name, organize the deeply nested files and subfolders in the 2 B Organized folder into one of the deeply nested subfolders of the Organized Documents Folder.
 
@@ -99,7 +100,8 @@ Automatically categorize and clean up unread email.
   </p>
 </video>
 
-Prompt:
+#### Prompt
+
 ```
 Retrieve the unread emails in my inbox and using only the email information determine if each one is “Junk” or “Not junk”. Promotional emails count as junk. One strong signal for junk email is if it contains an unsubscribe option near the end of the email.
 
