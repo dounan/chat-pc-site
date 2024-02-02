@@ -26,6 +26,10 @@ Turn any folder into a local knowledgebase that you can ask questions on.
   </p>
 </video>
 
+#### Instructions
+
+Go to `Settings > Actions > Finder`, add your folder, select it, and enable `Knowledgebase`.
+
 ## Organize documents
 
 <video src="https://github.com/dounan/chat-pc-site/assets/1095431/46527683-938c-4074-850e-2f3a625e49f5" muted loop controls>
