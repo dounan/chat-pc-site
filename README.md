@@ -11,6 +11,8 @@ Use simple English to automate your Mac, from managing files to interacting with
 
 ## [Click here to get started for free!](/docs/macos/getting-started/)
 
+Or [click here to explore more use cases](/docs/macos/use-cases/).
+
 ## Designed with safety in mind
 
 With ChatPC, you dictate the rules. It's designed from the ground up to ensure your peace of mind.
