@@ -1,6 +1,6 @@
-# Mac automation meets AI
+# Your new personal assistant for the Mac
 
-Use simple English to automate your Mac, from managing files to interacting with other Mac applications through Shortcuts and AppleScripts.
+Spend more time doing what matters, and let ChatPC effortlessly handle tedious tasks like organizing documents, drafting email responses, answering questions about your files, and more!
 
 <video src="images/landing/compose-email.mp4" muted autoplay loop controls>
   <p>
