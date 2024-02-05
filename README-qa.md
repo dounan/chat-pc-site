@@ -17,7 +17,7 @@ layout: default-qa
       </div>
     </div>
     <div class="col-xl-7 col-lg-12 mx-auto">
-      <video src="images/landing/compose-email.mp4" style="width: 100%;" muted autoplay loop controls>
+      <video src="images/landing/compose-email.mp4" style="width: 100%;" muted autoplay playsinline loop>
         <p>
           Your browser doesn't support HTML video. Here is a
           <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
