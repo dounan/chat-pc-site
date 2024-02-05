@@ -7,10 +7,10 @@ layout: default-qa
     <div class="row align-items-center g-lg-3 py-4">
       <div class="col-xl-5 text-center text-lg-start">
         <h1 class="display-6 fw-bold lh-1 mb-3">
-          Your personal assistant for the Mac
+          Your personal assistant for macOS
         </h1>
         <p class="col-xl-10 fs-5">
-          Spend more time doing what matters, and let ChatPC effortlessly handle tedious tasks like organizing documents, drafting email responses, answering questions about your files, and more!
+          Spend more time doing what matters, and let ChatPC handle tedious tasks like organizing documents, drafting emails, finding information, and more!
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-center justify-content-lg-start mb-4 mb-lg-3">
           <a class="btn btn-primary px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
