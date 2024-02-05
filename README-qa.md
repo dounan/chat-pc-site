@@ -2,20 +2,28 @@
 layout: default-qa
 ---
 
-# Your new personal assistant for the Mac
-
-Spend more time doing what matters, and let ChatPC effortlessly handle tedious tasks like organizing documents, drafting email responses, answering questions about your files, and more!
-
-<video src="images/landing/compose-email.mp4" muted autoplay loop controls>
-  <p>
-    Your browser doesn't support HTML video. Here is a
-    <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
-  </p>
-</video>
-
-## [Click here to get started for free!](/docs/macos/getting-started/)
-
-Or [click here to explore more use cases](/docs/macos/use-cases/).
+<div class="row align-items-center g-lg-5 py-5">
+  <div class="col-lg-7 text-center text-lg-start">
+    <h1 class="display-4 fw-bold lh-1 mb-3">
+      Your new personal assistant for the Mac
+    </h1>
+    <p class="col-lg-10 fs-4">
+      Spend more time doing what matters, and let ChatPC effortlessly handle tedious tasks like organizing documents, drafting email responses, answering questions about your files, and more!
+    </p>
+  </div>
+  <div class="col-md-10 mx-auto col-lg-5">
+    <video src="images/landing/compose-email.mp4" muted autoplay loop controls>
+      <p>
+        Your browser doesn't support HTML video. Here is a
+        <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
+      </p>
+    </video>
+  </div>
+  <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <a class="btn btn-primary btn-lg px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
+    <a class="btn btn-outline-secondary btn-lg px-4" href="/docs/macos/use-cases/">Explore use cases</a>
+  </div>
+</div>
 
 ## Designed with safety in mind
 
