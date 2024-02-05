@@ -2,32 +2,29 @@
 layout: default-qa
 ---
 
-<div style="background-color: #000">
-  <div class="container">
-    <div class="row align-items-center g-lg-3 py-4">
-      <div class="col-xl-5 text-center text-lg-start">
-        <h1 class="display-6 fw-bold lh-1 mb-3">
-          Your personal assistant for macOS
-        </h1>
-        <p class="col-xl-10 fs-5">
-          Spend more time doing what matters, and let ChatPC handle tedious tasks like organizing documents, drafting emails, finding information, and more!
-        </p>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-center justify-content-lg-start mb-4 mb-lg-3">
-          <a class="btn btn-primary px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
-          <a class="btn btn-outline-secondary px-4" href="/docs/macos/use-cases/">Explore use cases</a>
-        </div>
-      </div>
-      <div class="col-xl-7 col-lg-12 mx-auto">
-        <video src="images/landing/compose-email.mp4" style="width: 100%;" muted autoplay loop controls>
-          <p>
-            Your browser doesn't support HTML video. Here is a
-            <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
-          </p>
-        </video>
+<div class="container">
+  <div class="row align-items-center g-lg-3 py-4">
+    <div class="col-xl-5 text-center text-lg-start">
+      <h1 class="display-6 fw-bold lh-1 mb-3">
+        Your personal assistant for macOS
+      </h1>
+      <p class="col-xl-10 fs-5">
+        Spend more time doing what matters, and let ChatPC handle tedious tasks like organizing documents, drafting emails, finding information, and more!
+      </p>
+      <div class="d-grid gap-2 d-md-flex justify-content-md-center justify-content-lg-start mb-4 mb-lg-3">
+        <a class="btn btn-primary px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
+        <a class="btn btn-outline-secondary px-4" href="/docs/macos/use-cases/">Explore use cases</a>
       </div>
     </div>
+    <div class="col-xl-7 col-lg-12 mx-auto">
+      <video src="images/landing/compose-email.mp4" style="width: 100%;" muted autoplay loop controls>
+        <p>
+          Your browser doesn't support HTML video. Here is a
+          <a href="images/landing/compose-email.mp4">link to the demo video</a> instead.
+        </p>
+      </video>
+    </div>
   </div>
-</div>
 
 ## Designed with safety in mind
 
@@ -67,3 +64,5 @@ In addition to the built-in ChatPC chat interface, you can also prompt ChatPC in
 ## Get started for free!
 
 To get started, check out the [MacOS Getting Started Guide](/docs/macos/getting-started/) (MacOS 13.0 or higher required) or explore our [subscription plans](/plans/).
+
+</div>
