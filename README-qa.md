@@ -6,7 +6,7 @@ layout: default-qa
   <div class="row align-items-center g-lg-3 py-4">
     <div class="col-xl-5 text-center text-lg-start">
       <h1 class="display-6 fw-bold lh-1 mb-3">
-        Your personal assistant for macOS
+        Your <span style="color: #56877c;">personal assistant</span> for macOS
       </h1>
       <p class="col-xl-10 fs-5">
         Spend more time doing what matters, and let ChatPC handle tedious tasks like organizing documents, drafting emails, finding information, and more!
