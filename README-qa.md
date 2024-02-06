@@ -9,7 +9,7 @@ layout: default-qa
         Your <span style="color: #56877c;">personal assistant</span> for macOS
       </h1>
       <p class="col-xl-10 fs-5">
-        Spend more time doing what matters, and let ChatPC handle tedious tasks like organizing documents, drafting emails, finding information, and more!
+        Spend more time doing what matters. Let ChatPC help you organize documents, draft emails, find information, and more!
       </p>
       <div class="d-grid gap-2 d-md-flex justify-content-md-center justify-content-lg-start mb-4 mb-lg-3">
         <a class="btn btn-primary px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
