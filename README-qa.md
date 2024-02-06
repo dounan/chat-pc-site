@@ -26,43 +26,28 @@ layout: default-qa
     </div>
   </div>
 
-## Designed with safety in mind
-
-With ChatPC, you dictate the rules. It's designed from the ground up to ensure your peace of mind.
-
-### 🛠️ You are in control
-
-By default, ChatPC can't access any of your files or run any Shortcuts or AppleScripts. Only grant permissions to what you're comfortable with.
-
-### 🛂 Explicit approvals
-
-Ensure even more security by configuring which actions need your approval before executing.
-
-### 🔐 End-to-end data privacy
-
-Your data is your data. It is never used for training models and all communication between ChatPC and OpenAI are encrypted. See OpenAI's [Enterprise Privacy](https://openai.com/enterprise-privacy) for more information.
-
----
-
-## Integrate seemlessly into your workflows
-
-In addition to the built-in ChatPC chat interface, you can also prompt ChatPC inside your Shortcuts or AppleScripts!
-
-![Prompt with Shortcuts](/images/landing/prompt-with-shortcuts.png)
-![Prompt with Shortcuts](/images/landing/prompt-with-applescript.png)
-
-## How does it work?
-
-1. Enable ChatPC to perform actions by adding folders, Shortcuts, and AppleScripts
-
-1. Prompt ChatPC through the built-in chat interface, a Shortcut, or an AppleScript
-
-1. ChatPC's AI (powered by OpenAI GPT-3 and GPT-4) decides what actions to take and executes them
-
-![How it works](/images/landing/how-it-works.png)
-
-## Get started for free!
-
-To get started, check out the [MacOS Getting Started Guide](/docs/macos/getting-started/) (MacOS 13.0 or higher required) or explore our [subscription plans](/plans/).
-
+  <h2 class="pb-2 border-bottom">Features</h2>
+  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+    <div class="feature col">
+      <div class="feature-icon bg-primary bg-gradient">
+        <img src="/images/landing/icons/battery.100percent.bolt.svg" type="image/svg+xml" width="1em" height="1em" />
+      </div>
+      <h2>Batteries included</h2>
+      <p>Works out of the box with Finder, Calendar, Contacts, Mail, Notes, Safari, and more!</p>
+    </div>
+    <div class="feature col">
+      <div class="feature-icon bg-primary bg-gradient">
+        <img src="/images/landing/icons/brain.head.profile.fill.svg" type="image/svg+xml" width="1em" height="1em" />
+      </div>
+      <h2>Don’t search. Ask</h2>
+      <p>ChatPC can answer questions based on the contents of your files. No more manually searching through your files to find the information you need.</p>
+    </div>
+    <div class="feature col">
+      <div class="feature-icon bg-primary bg-gradient">
+        <img src="/images/landing/icons/openai-logomark.svg" type="image/svg+xml" width="1em" height="1em" />
+      </div>
+      <h2>ChatPC GPT</h2>
+      <p>If you have ChatGPT Pro, you can bring the ChatPC <a href="https://x.com/OpenAI/status/1752391522081980855?s=20" target="_blank">GPT</a> into your conversations to unlock even more use cases.</p>
+    </div>
+  </div>
 </div>
