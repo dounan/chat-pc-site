@@ -1,7 +1,6 @@
----
----
+$primary: #56877D;
 
-@import "./bootstrap.css";
+@import "./bootstrap/bootstrap.scss";
 
 .nav-link:hover {
   text-decoration: underline;
