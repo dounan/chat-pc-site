@@ -30,10 +30,10 @@ layout: default-qa
   <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
     <div class="col d-flex align-items-start">
       <div class="icon-square bg-gradient flex-shrink-0 me-3">
-        <svg width="1em" height="1em" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="m3.12 17.6c-1.723 0-3.12-1.397-3.12-3.12v-5.76c0-1.723 1.397-3.12 3.12-3.12h16.011c1.723 0 3.12 1.397 3.12 3.12v5.76c0 1.723-1.397 3.12-3.12 3.12zm-2.012-8.88v5.76c.001 1.11.901 2.01 2.011 2.01h.001 16.011c1.109-.001 2.008-.9 2.009-2.01v-5.76c-.001-1.109-.9-2.008-2.009-2.01h-16.011-.001c-1.11 0-2.01.9-2.011 2.01zm2.679 6.4c-.721-.002-1.305-.587-1.307-1.308v-4.427c0-.722.584-1.307 1.305-1.31h14.678c.724 0 1.311.587 1.311 1.31v4.427c-.005.722-.589 1.305-1.311 1.308zm18.87-5.41c.788.28 1.342 1.02 1.342 1.889s-.554 1.609-1.328 1.884l-.014.004z"></path></g></svg>
+        <svg width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 310" xml:space="preserve"><g id="XMLID_15_"><path id="XMLID_16_" d="M221.742,46.906c-7.28-3.954-16.387-1.259-20.341,6.021c-3.955,7.279-1.259,16.386,6.02,20.341 C242.937,92.561,265,129.626,265,170c0,60.654-49.346,110-110,110S45,230.654,45,170c0-40.198,21.921-77.186,57.208-96.531 c7.265-3.982,9.925-13.1,5.943-20.364c-3.983-7.264-13.101-9.925-20.364-5.943C42.891,71.775,15,118.844,15,170 c0,77.196,62.804,140,140,140s140-62.804,140-140C295,118.62,266.929,71.453,221.742,46.906z"/><path id="XMLID_17_" d="M155,130c8.284,0,15-6.716,15-15V15c0-8.284-6.716-15-15-15c-8.284,0-15,6.716-15,15v100 C140,123.284,146.716,130,155,130z"/></g></svg>
       </div>
       <div>
-        <h2>Batteries included</h2>
+        <h2>Simple to use</h2>
         <p>Works out of the box with Finder, Calendar, Contacts, Mail, Notes, Safari, and more!</p>
       </div>
     </div>
