@@ -18,18 +18,17 @@ footer .a:hover {
   text-decoration: underline;
 }
 
-.feature-icon {
+.icon-square {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 4rem;
-  height: 4rem;
-  margin-bottom: 1rem;
-  font-size: 2rem;
-  color: #fff;
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
   border-radius: .75rem;
+  background-color: #1B3B6F; // Other options: #FAA613, #abcfba
 }
 
-.feature-icon > svg {
+.icon-square > svg {
   fill: currentColor;
 }
