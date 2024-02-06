@@ -43,7 +43,7 @@ layout: default-qa
       </div>
       <div>
         <h2>Don’t search. Ask</h2>
-        <p>ChatPC can answer questions based on the contents of your files. No more manually searching through your files to find the information you need.</p>
+        <p>ChatPC catalogs your files so you can retrieve any information by simply asking a question.</p>
       </div>
     </div>
     <div class="col d-flex align-items-start">
@@ -52,7 +52,7 @@ layout: default-qa
       </div>
       <div>
         <h2>ChatPC GPT</h2>
-        <p>If you have ChatGPT Pro, you can <a href="https://x.com/OpenAI/status/1752391522081980855?s=20" target="_blank">type @ to bring</a> the <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a> into your conversations to unlock even more use cases.</p>
+        <p>Bring the <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a> into your ChatGPT Pro conversation to interact with other GPTs.</p>
       </div>
     </div>
   </div>
