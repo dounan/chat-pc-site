@@ -6,15 +6,11 @@ $primary: #517e75;
 
 @import "bootstrap/bootstrap";
 
-.nav-link:hover {
-  text-decoration: underline;
-}
-
-footer .a {
+a {
   text-decoration: none;
 }
 
-footer .a:hover {
+a:hover {
   text-decoration: underline;
 }
 
