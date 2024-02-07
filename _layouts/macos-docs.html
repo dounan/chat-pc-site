@@ -2,38 +2,37 @@
 layout: default
 ---
 
-<div>
-    <style scoped>
-      body {
-        display: flex;
-      }
+<div class="container">
+  <style scoped>
+    body {
+      display: flex;
+    }
 
-      .sidebar {
-        border-right: 1px solid #eee;
-        position: absolute;
-        width: 180px;
-      }
+    .sidebar {
+      border-right: 1px solid #eee;
+      position: absolute;
+      width: 180px;
+    }
 
-      .sidebar a {
-        display: block;
-        padding: 5px 0;
-      }
+    .sidebar a {
+      display: block;
+      padding: 5px 0;
+    }
 
-      .content {
-        margin-left: 200px;
-      }
-    </style>
+    .content {
+      margin-left: 200px;
+    }
+  </style>
 
-    <div class="sidebar">
-      <a href="/docs/macos/getting-started/">Getting started</a>
-      <a href="/docs/macos/use-cases/">Example use cases</a>
-      <a href="/docs/macos/custom-actions">Add custom actions</a>
-      <a href="/docs/macos/workflow-integration">Integrate into workflows</a>
-      <a href="/docs/macos/chat-with-selected-text">Chat with selected text</a>
-    </div>
+  <div class="sidebar">
+    <a href="/docs/macos/getting-started/">Getting started</a>
+    <a href="/docs/macos/use-cases/">Example use cases</a>
+    <a href="/docs/macos/custom-actions">Add custom actions</a>
+    <a href="/docs/macos/workflow-integration">Integrate into workflows</a>
+    <a href="/docs/macos/chat-with-selected-text">Chat with selected text</a>
+  </div>
 
-    <div class="content">
-      {{ content }}
-    </div>
-  </body>
-</html>
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
