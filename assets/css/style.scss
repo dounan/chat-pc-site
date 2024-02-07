@@ -6,11 +6,11 @@ $primary: #517e75;
 
 @import "bootstrap/bootstrap";
 
-a {
+a:not(.btn) {
   text-decoration: none;
 }
 
-a:hover {
+a:not(.btn):hover {
   text-decoration: underline;
 }
 
