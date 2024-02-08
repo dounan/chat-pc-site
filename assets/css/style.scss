@@ -6,6 +6,12 @@ $primary: #517e75;
 
 @import "bootstrap/bootstrap";
 
+.btn-cta {
+  color: #fff;
+  background-color: #D66853;
+  border-color: #D66853;
+}
+
 a:not(.btn) {
   text-decoration: none;
 }
