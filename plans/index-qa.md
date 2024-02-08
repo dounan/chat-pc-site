@@ -12,7 +12,7 @@ layout: default
       </div>
       <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-center">
         <p class="fs-5 mb-5">
-          The free plan includes all paid features and has a lifetime limit of 20,000 <a href="#what-is-a-credit">credits</a> and 75 ChatPC GPT <a href="#what-is-an-action">actions</a>.
+          The free plan includes all paid features with a<br>lifetime limit of 20,000 <a href="#what-is-a-credit">credits</a> and 75 GPT <a href="#what-is-an-action">actions</a>.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-center mb-5">
           <a class="btn btn-primary px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
@@ -56,55 +56,64 @@ layout: default
 
   <div class="row align-items-center py-4">
     <div class="col-xl-10 offset-xl-1 border rounded-3 p-4">
-      <h1 class="h4 mb-3" id="what-is-a-credit">
-        What is a credit?
-      </h1>
-      <p>
-        Credits are consumed whenever you communicate with the ChatPC AI. Every word that is given to the AI — both from your prompts and from the results of an action, such as the contents of a file — and every word that the AI generates as output consumes credits.
-      </p>
-      </p>
-        The number of credit consumed depends on the number of characters in a word and the AI model used. The following table shows  <b>approximately</b> how many words you get for each AI model.
-      </p>
-      <table class="table table-striped">
-        <thead>
-          <tr>
-            <th scope="col">Model</th>
-            <th scope="col">1,000 credits</th>
-            <th scope="col">Basic</th>
-            <th scope="col">Standard</th>
-            <th scope="col">Pro</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">gpt-3.5-turbo</th>
-            <td>~750 words</td>
-            <td>~750,000 words</td>
-            <td>~1,875,000 words</td>
-            <td>~3,000,000 words</td>
-          </tr>
-          <tr>
-            <th scope="row">gpt-4</th>
-            <td>~30 words</td>
-            <td>~30,000 words</td>
-            <td>~75,000 words</td>
-            <td>~120,000 words</td>
-          </tr>
-          <tr>
-            <th scope="row">gpt-4-1106-preview</th>
-            <td>~60 words</td>
-            <td>~60,000 words</td>
-            <td>~150,000 words</td>
-            <td>~240,000 words</td>
-          </tr>
-        </tbody>
-      </table>
-      <h1 class="h4 mt-5 mb-3" id="what-is-an-action">
-        What is a ChatPC GPT action?
-      </h1>
-      <p>
-        A <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a> action is counted whenever the GPT interact with your macOS (e.g. create a file, compose an email). Credits are not consumed when using the ChatPC GPT.
-      </p>
+      <div class="row g-3">
+        <div>
+          <p class="h4 mb-3" id="what-is-a-credit">
+            What is a credit?
+          </p>
+          <p>
+            Credits are used each time you interact with the ChatPC AI. All words sent to or received from the AI, including words from performing actions (e.g. reading the contents of a file), count towards your credit usage.
+          </p>
+          <p>
+            The number of credits used varies based on word length and the specific AI model chosen. This table shows the <b>approximate</b> relationship between credits and words for each AI model.
+          </p>
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th scope="col">Model</th>
+                <th scope="col">1,000 credits</th>
+                <th scope="col">Basic</th>
+                <th scope="col">Standard</th>
+                <th scope="col">Pro</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">gpt-3.5-turbo</th>
+                <td>~750 words</td>
+                <td>~750,000 words</td>
+                <td>~1,875,000 words</td>
+                <td>~3,000,000 words</td>
+              </tr>
+              <tr>
+                <th scope="row">gpt-4</th>
+                <td>~30 words</td>
+                <td>~30,000 words</td>
+                <td>~75,000 words</td>
+                <td>~120,000 words</td>
+              </tr>
+              <tr>
+                <th scope="row">gpt-4-1106-preview</th>
+                <td>~60 words</td>
+                <td>~60,000 words</td>
+                <td>~150,000 words</td>
+                <td>~240,000 words</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <p class="h4 mt-3 mb-3" id="what-is-an-action">
+            What is a GPT action?
+          </p>
+          <p>
+            A GPT action occurs whenever the <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a> interacts with your macOS (e.g. create a file, compose an email).
+          </p>
+          <p>
+            Note that using the ChatPC GPT does not use up any credits.
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 
