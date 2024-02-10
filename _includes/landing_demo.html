@@ -1,16 +1,18 @@
-<div class="col-xl-5 text-center text-xl-start">
-  <p class="display-6 fw-bold mb-4">
-    {{ include.title }}
-  </p>
-  <p class="col-lg-10 offset-lg-1 col-xl-10 offset-xl-0 fs-5 mb-5">
-    {{ include.description }}
-  </p>
-</div>
-<div class="col-xl-7 col-lg-12 mx-auto">
-  <video src="{{ include.video_url }}" style="width: 100%;" muted controls playsinline loop>
-    <p>
-      Your browser doesn't support HTML video. Here is a
-      <a href="{{ include.video_url }}">link to the demo video</a> instead.
+<div class="row py-5">
+  <div class="col-xl-5 text-center text-xl-start">
+    <p class="display-6 fw-bold mb-4">
+      {{ include.title }}
     </p>
-  </video>
+    <p class="col-lg-10 offset-lg-1 col-xl-10 offset-xl-0 fs-5 mb-5">
+      {{ include.description }}
+    </p>
+  </div>
+  <div class="col-xl-7 col-lg-12 mx-auto">
+    <video src="{{ include.video_url }}" style="width: 100%;" muted controls playsinline loop>
+      <p>
+        Your browser doesn't support HTML video. Here is a
+        <a href="{{ include.video_url }}">link to the demo video</a> instead.
+      </p>
+    </video>
+  </div>
 </div>
