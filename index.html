@@ -9,11 +9,11 @@ layout: default
         Your <span style="color: #56877c;">personal assistant</span> for macOS
       </p>
       <p class="col-lg-10 offset-lg-1 col-xl-10 offset-xl-0 fs-5 mb-5">
-        Reclaim your time and let ChatPC help you organize documents, draft emails, find information, and more!
+        ChatPC is a personal AI assistant that knows how to use your macOS to help you organize your files, find information, learn faster, stay in touch with others, and more!
       </p>
       <div class="d-grid gap-2 d-md-flex justify-content-md-center justify-content-xl-start mb-3">
         <a class="btn btn-cta px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
-        <a class="btn btn-outline-secondary px-4" href="/docs/macos/use-cases/">Explore use cases</a>
+        <a class="btn btn-outline-secondary px-4" href="#use-cases">Explore use cases</a>
       </div>
       <p class="col-xl-10 mb-3 mb-lg-0"><small class="text-muted">Your data will <b>never</b> be used to train AI models.</small></p>
     </div>
@@ -27,7 +27,7 @@ layout: default
     </div>
   </div>
 
-  <div class="border-bottom"></div>
+  <div class="border-bottom my-5"></div>
   <div class="row g-5 py-5 px-md-5 row-cols-1 row-cols-lg-2">
     <div class="col d-flex align-items-start">
       <div class="icon-square bg-gradient flex-shrink-0 me-3">
@@ -72,11 +72,22 @@ layout: default
       <div>
         <p class="h2">Do more with GPTs</p>
         <p>
-          Give ChatPC access to the internet, code interpreter, and ability to interact with other GPTs through the <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a>.
+          Give ChatPC access to the internet, code interpreter, and other GPTs through the <a href="https://chat.openai.com/g/g-611zFFIQR-chatpc-connect-with-macos" target="_blank">ChatPC GPT</a>.
           <br/>
           <small class="text-muted">Requires an OpenAI ChatGPT Plus subscription</small>
         </p>
       </div>
     </div>
   </div>
+
+  <div class="border-bottom my-5"></div>
+
+  <div class="row py-5">
+    <p class="display-6 text-center" id="use-cases">
+        How can ChatPC help me?
+      </p>
+  </div>
+
+  {% include landing_demo.html title="Organize files and find answers" description="ChatPC can rename and organize your files, as well as answer any questions based on your file contents. Instead of searching through your files for answers, simply ask ChatPC!" video_url="https://github.com/dounan/chat-pc-site/assets/1095431/8e9c272e-fde8-44a4-9ecf-dcb7b3310385" %}
+  {% include landing_demo.html title="Learn faster and more effectively" description="ChatPC can help you read faster, understand more deeply, take notes, and even test your knowledge!" video_url="https://github.com/dounan/chat-pc-site/assets/1095431/3373db70-e98b-417f-a46b-8384f4b5b747" %}
 </div>
