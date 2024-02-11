@@ -19,7 +19,7 @@ Follow the instructions below to get started.
 
 ## Install the MacOS Application
 
-1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.25/ChatPC.v0.25.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
+1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.26/ChatPC.v0.26.zip) the MacOS ChatPC application (requires MacOS 13.0 and higher)**
 
 1. Unzip the .zip file.
 
