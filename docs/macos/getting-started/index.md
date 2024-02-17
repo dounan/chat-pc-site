@@ -11,7 +11,6 @@ Follow the instructions below to get started.
 - [Manage your chats](#manage-your-chats)
 - [Grant permissions](#grant-permissions)
 - [Open the chat window](#open-the-chat-window)
-- [Acccess settings](#acccess-settings)
 - [Subscription plans](#subscription-plans)
 - [Support](#support)
 
@@ -103,9 +102,9 @@ If you closed the chat window, you can open it any time by clicking the ChatPC i
 
 The default free plan has a lifetime credit limit as well as other limitations. You can manage your subscription plan in the app settings.
 
-Check out the different subscription plans at https://chatpc.ai/plans!
+Check out the [available subscription plans](https://chatpc.ai/plans).
 
-With a subscription plan, you can enter your own OpenAI API key to avoid using credits or if you run out of credits. You can set your OpenAI API key under `Chat` settings.
+With a subscription plan, you can enter your own OpenAI API key to avoid using your ChatPC credits. You can set your OpenAI API key under `Chat` settings.
 
 ## Support
 
