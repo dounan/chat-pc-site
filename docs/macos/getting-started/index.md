@@ -12,7 +12,6 @@ Follow the instructions below to get started.
 - [Grant permissions](#grant-permissions)
 - [Open the chat window](#open-the-chat-window)
 - [Acccess settings](#acccess-settings)
-- [Keyboard shortcuts](#keyboard-shortcuts)
 - [Subscription plans](#subscription-plans)
 - [Support](#support)
 
