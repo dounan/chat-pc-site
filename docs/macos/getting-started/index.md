@@ -14,7 +14,6 @@ Follow the instructions below to get started.
 - [Acccess settings](#acccess-settings)
 - [Keyboard shortcuts](#keyboard-shortcuts)
 - [Subscription plans](#subscription-plans)
-- [FAQ](#faq)
 - [Support](#support)
 
 ## Install the macOS application
@@ -101,30 +100,13 @@ If you closed the chat window, you can open it any time by clicking the ChatPC i
 
 ![opened app](/images/macos-getting-started/opened_app_arrow.png)
 
-## Keyboard shortcuts
-
-| Action | Shortcut |
-| - | - |
-| Open chat window | `Control-Space` (default) |
-| Send message | `Return` |
-| Insert new line in message | `Option-Return` |
-| Insert last ChatPC response into frontmost app | `Command-Return` |
-| New chat | `Command-N` |
-| Go to previous (older) chat | `Command-J` |
-| Go to next (newer) chat | `Command-K` |
-| Delete current chat | `Command-D` |
-
 ## Subscription plans
 
-The default free plan has a lifetime token limit as well as other limitations. You can manage your subscription plan in the app settings.
+The default free plan has a lifetime credit limit as well as other limitations. You can manage your subscription plan in the app settings.
 
 Check out the different subscription plans at https://chatpc.ai/plans!
 
 With a subscription plan, you can enter your own OpenAI API key to avoid using credits or if you run out of credits. You can set your OpenAI API key under `Chat` settings.
-
-## FAQ
-
-Coming soon
 
 ## Support
 
