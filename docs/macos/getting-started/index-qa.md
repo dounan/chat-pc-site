@@ -2,7 +2,7 @@
 layout: macos-docs
 ---
 
-# MacOS Getting Started
+# Getting Started
 
 Follow the instructions below to get started.
 - [Install the macOS application](#install-the-macos-application)
@@ -18,6 +18,12 @@ Follow the instructions below to get started.
 - [Support](#support)
 
 ## Install the macOS application
+
+<a href="https://github.com/dounan/chat-pc-site/releases/download/v0.26/ChatPC.v0.26.zip" download class="btn btn-cta btn-lg">
+  Download
+  <br/>
+  <small>macOS 13.0+</small>
+</a>
 
 1. **[Download](https://github.com/dounan/chat-pc-site/releases/download/v0.26/ChatPC.v0.26.zip) the macOS ChatPC application (requires MacOS 13.0 and higher)**
 

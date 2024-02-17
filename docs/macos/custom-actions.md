@@ -4,7 +4,20 @@ layout: macos-docs
 
 # Add custom actions
 
-## AppleScripts
+- [Shortcuts](#shortcuts)
+- [AppleScript](#applescripts)
+
+## Shortcuts
+
+1. ChatPC can run Shortcuts from your Mac's Shortcuts application.
+
+1. The ChatPC AI assistant will decide when to call your Shortcut based on its description, which defaults to the Shortcut name.
+
+1. If your Shortcut takes a text input, add a description for what input the AI assistant should pass in as the input, including what format the input should be in (e.g. `JSON array of fruit names`).
+
+1. If your Shortcut produces a text output, add a description for the output, including the format of the output, so the AI assistant knows how to use it.
+
+## AppleScript
 
 ChatPC can also run arbitrary AppleScript files that you place in the designated folder found at `Settings > Actions > AppleScripts > Show in Finder`.
 
@@ -45,13 +58,3 @@ end openFile
 ```
 
 You can [download more example scripts here](/releases/example-scripts.zip).
-
-## Shortcuts
-
-1. ChatPC can run Shortcuts from your Mac's Shortcuts application.
-
-1. The ChatPC AI assistant will decide when to call your Shortcut based on its description, which defaults to the Shortcut name.
-
-1. If your Shortcut takes a text input, add a description for what input the AI assistant should pass in as the input, including what format the input should be in (e.g. `JSON array of fruit names`).
-
-1. If your Shortcut produces a text output, add a description for the output, including the format of the output, so the AI assistant knows how to use it.
