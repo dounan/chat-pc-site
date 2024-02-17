@@ -108,4 +108,4 @@ With a subscription plan, you can enter your own OpenAI API key to avoid using y
 
 ## Support
 
-If you run into any issues or have any questions, please reach out to us at support@chatpc.ai.
+If you run into any issues or have any questions, please reach out to us at <a href="mailto:support@chatpc.ai" target="_blank">support@chatpc.ai</a>.
