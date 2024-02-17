@@ -59,21 +59,21 @@ Note that the more actions you add, the more credits you will consume per chat m
 
 Open the chat window, and enter the following prompt:
 
-```
-Create a new folder on my desktop named after today's date
-```
+<div class="alert alert-secondary" role="alert">
+  Create a new folder on my desktop named after today's date
+</div>
 
 Approve the action to create the folder. Then enter the following prompt:
 
-```
-Write a short haiku and save it in that new folder as poem.txt
-```
+<div class="alert alert-secondary" role="alert">
+  Write a short haiku and save it in that new folder as poem.txt
+</div>
 
 Approve the action to create the file. Then enter the following prompt:
 
-```
-Open the poem file
-```
+<div class="alert alert-secondary" role="alert">
+  Open the poem file
+</div>
 
 ## Manage your chats
 
