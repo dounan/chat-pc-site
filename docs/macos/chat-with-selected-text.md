@@ -10,7 +10,7 @@ ChatPC allows you to chat with selected text.
 
 1. Select some text in any application
 
-1. Open the chat window with `Control-Space`.
+1. Open the chat window by clicking the menu bar icon, or via the keyboard shortcut `Control-Option-Space` (default).
 
 1. Once the chat window is open, you can see your selected text.
 

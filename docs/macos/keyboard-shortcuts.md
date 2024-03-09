@@ -7,6 +7,7 @@ layout: macos-docs
 | Action | Shortcut |
 | - | - |
 | Open chat window | `Control-Space` (default) |
+| Open chat window with selection | `Control-Option-Space` (default) |
 | Send message | `Return` |
 | Insert new line in message | `Option-Return` |
 | Insert last ChatPC response into frontmost app | `Command-Return` |
