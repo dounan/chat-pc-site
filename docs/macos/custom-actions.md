@@ -37,7 +37,8 @@ You can create AppleScripts using the `Script Editor` app. The script must follo
     - `@return {type} - Description of the return value`
         - Type can be `boolean`, `number`, `string`, or `void`
         - The description is optional if the type is `void`
-3. The script must contain an entry point function that has the same name as the script. This function should take in the parameters described in the comment block (in the same order) and return the value as described in the comment block.
+3. The script must contain a function named `main` or has the same name as the script file.
+    - This function must take in the parameters specified in the comment block (in the same order) and return the value as described in the comment block.
 4. The script may contain other helper functions as needed.
 
 Here is an example of a valid script named `openFile.scpt`:
