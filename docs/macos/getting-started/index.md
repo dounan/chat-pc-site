@@ -48,7 +48,7 @@ When you first open the chat window, you'll be presented with an option to add t
 
 ![add recommeneded actions](/images/macos-getting-started/add-recommended-actions.png)
 
-Actions can be managed in the [ChatPC settings](#acccessing-settings) `Actions` tab.
+Actions can be managed in the ChatPC settings `Actions` tab.
 
 Note that the more actions you add, the more credits you will consume per chat message.
 
