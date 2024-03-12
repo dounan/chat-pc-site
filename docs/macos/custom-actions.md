@@ -21,7 +21,7 @@ layout: macos-docs
 
 ChatPC can also run arbitrary AppleScript files that you place in the designated folder found at `Settings > Actions > AppleScripts > Show in Finder`.
 
-The script must follow the following rules:
+You can create AppleScripts using the `Script Editor` app. The script must follow the following rules:
 
 1. The script must begind with a comment block at the top of the file:
     - `(* ... *)` for AppleScript
