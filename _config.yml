@@ -1,2 +1,4 @@
 title: ChatPC
 description: AI Automation & Productivity Assistant for Mac
+plugins:
+  - jekyll-sitemap
