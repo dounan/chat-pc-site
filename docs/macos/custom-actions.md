@@ -29,12 +29,12 @@ You can create AppleScripts using the `Script Editor` app. The script must follo
 2. The comment block must contain the following tags that describe the script:
     - `@permission {permissionType}`
         - Permission type can be `allow`, `ask`, `block` (to disable the script)
-    - `@summary - Short summary of what the script does`
-    - `@description - Longer description of what the script does`
+    - `@summary Short summary of what the script does`
+    - `@description Longer description of what the script does`
     - `@param {type} name - Description of the parameter` for each parameter (in order)
         - Type can be `boolean`, `number`, or `string`
         - Type can be followed by a `?` to indicate it is optional (for example `string?`)
-    - `@return {type} - Description of the return value`
+    - `@return {type} Description of the return value`
         - Type can be `boolean`, `number`, `string`, or `void`
         - The description is optional if the type is `void`
 3. The script must contain a function named `main` or has the same name as the script file.
