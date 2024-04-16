@@ -7,11 +7,11 @@ layout: macos-docs
 | Action | Shortcut |
 | - | - |
 | Open chat window | `Control-Space` (default) |
-| Open chat window with selection | `Control-Option-Space` (default) |
+| Open chat window without selection | `Control-Option-Space` (default) |
 | Send message | `Return` |
 | Insert new line in message | `Option-Return` |
-| Insert last ChatPC response into frontmost app | `Command-Return` |
+| Insert last ChatPC response into last active app | `Command-Return` |
 | New chat | `Command-N` |
-| Go to previous (older) chat | `Command-J` |
-| Go to next (newer) chat | `Command-K` |
-| Delete current chat | `Command-D` |
+| Go to previous (newer) chat | `Option-Command-[` |
+| Go to next (newer) chat | `Option-Command-]` |
+| Delete current chat | `Shift-Command-Delete` |
