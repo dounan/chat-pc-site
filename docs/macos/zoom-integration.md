@@ -4,11 +4,11 @@ layout: macos-docs
 
 # Zoom Actions
 
-Zoom actions enable ChatPC to automate your Zoom meetings, from createing new meetings to viewing, updating, and deleting existing meetings.
+Zoom actions enable ChatPC to automate your Zoom meetings, from creating new meetings to viewing, updating, and deleting existing meetings.
 
-![zoom create meeting example](/images/docs/macos/zoom-integration/zoom-create-meeting.png)
+<img src="/images/docs/macos/zoom-integration/zoom-create-meeting.png" alt="zoom create meeting example" width="700" />
 
-These actions can be combined into other ChatPC actions. For example, ChatPC can look at your Calendar to find an available time to schedule a meeting, as well as sending an invite email to the attendees after the Zoom meeting has been created.
+These actions can be combined with other ChatPC actions. For example, ChatPC can look at your Calendar to find an available time to schedule a meeting, as well as sending an invite email to the attendees after the Zoom meeting has been created.
 
 ![zoom create meeting and send email example](/images/docs/macos/zoom-integration/zoom-create-meeting-and-email.png)
 
