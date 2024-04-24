@@ -10,7 +10,7 @@ Zoom actions enable ChatPC to automate your Zoom meetings, from creating new mee
 
 These actions can be combined with other ChatPC actions. For example, ChatPC can look at your Calendar to find an available time to schedule a meeting, as well as sending an invite email to the attendees after the Zoom meeting has been created.
 
-![zoom create meeting and send email example](/images/docs/macos/zoom-integration/zoom-create-meeting-and-email.png)
+<img src="/images/docs/macos/zoom-integration/zoom-create-meeting-and-email.png" alt="zoom create meeting and send email example" width="700" />
 
 ## Adding Zoom actions
 
@@ -20,30 +20,40 @@ These actions can be combined with other ChatPC actions. For example, ChatPC can
 
 1. Click the toggle to turn on Zoom actions
 
-![zoom settings unauthorized view](/images/docs/macos/zoom-integration/zoom-settings-unauthorized.png)
+<img src="/images/docs/macos/zoom-integration/zoom-settings-unauthorized.png" alt="zoom settings unauthorized view" width="700" />
 
 1. Click "Authorize"
 
 1. Your browser will open to a Zoom authorization page (you may have to sign-in to Zoom first).
 
-![zoom oauth screen](/images/docs/macos/zoom-integration/zoom-settings-unauthorized.png)
+<img src="/images/docs/macos/zoom-integration/zoom-settings-unauthorized.png" alt="zoom oauth screen" width="700" />
 
 1. Click "Allow"
 
 1. Your browser will ask permission to open the ChatPC app.
 
-![zoom oauth open ChatPC](/images/docs/macos/zoom-integration/zoom-oauth-open-chatpc.png)
+<img src="/images/docs/macos/zoom-integration/zoom-oauth-open-chatpc.png" alt="zoom oauth open ChatPC" width="700" />
 
 1. Click "Allow"
 
 1. ChatPC should open and you should see that Zoom is now authorized.
 
-![zoom settings authorized view](/images/docs/macos/zoom-integration/zoom-settings-authorized.png)
+<img src="/images/docs/macos/zoom-integration/zoom-settings-authorized.png" alt="zoom settings authorized view" width="700" />
 
-1. Open the chat window (see the Getting Started guide if you don't know how) and try out the following prompt:
+## Using Zoom actions
+
+1. Open the chat window (see the Getting Started guide if you don't know how) and try out the following prompts in order:
 
 <div class="alert alert-secondary" role="alert">
   Create a zoom meeting tomorrow at 9am
+</div>
+
+<div class="alert alert-secondary" role="alert">
+  Update the meeting to 10am
+</div>
+
+<div class="alert alert-secondary" role="alert">
+  Delete the meeting
 </div>
 
 ## Temporarily turning off Zoom actions
@@ -56,13 +66,13 @@ These actions can be combined with other ChatPC actions. For example, ChatPC can
 
 1. Open ChatPC Settings > Actions > Zoom
 
-![zoom settings authorized view](/images/docs/macos/zoom-integration/zoom-settings-authorized.png)
+<img src="/images/docs/macos/zoom-integration/zoom-settings-authorized.png" alt="zoom settings authorized view" width="700" />
 
 1. Click "Revoke Access"
 
 1. Your browser will open to your Zoom "Added Apps" page (you may have to sign-in to Zoom first).
 
-![zoom settings authorized view](/images/docs/macos/zoom-integration/zoom-added-apps.png)
+<img src="/images/docs/macos/zoom-integration/zoom-added-apps.png" alt="zoom settings authorized view" width="700" />
 
 1. Click "Remove"
 
