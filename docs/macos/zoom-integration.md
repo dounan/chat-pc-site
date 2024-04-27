@@ -14,7 +14,9 @@ These actions can be combined with other ChatPC actions. For example, ChatPC can
 
 ## Adding Zoom actions
 
-1. Follow the [Getting Started](/docs/macos/getting-started) guide to install the ChatPC and register for a ChatPC account
+1. **BETA INSTRUCTIONS: Please [install the v0.31.rc2 beta version](https://github.com/dounan/chat-pc-site/releases/download/v0.31.rc2/ChatPCv0.31.rc2.zip) to test out Zoom functionality. Don't use the install link in the Getting Started guide linked below.**
+
+1. Follow the [Getting Started](/docs/macos/getting-started) guide to install ChatPC and register for a ChatPC account
 
 1. **IMPORTANT: make sure you have the macOS Zoom app installed**
 
