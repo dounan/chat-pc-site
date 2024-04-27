@@ -14,7 +14,9 @@ These actions can be combined with other ChatPC actions. For example, ChatPC can
 
 ## Adding Zoom actions
 
-1. Follow the [Getting Started](/docs/macos/getting-started) guide to install the ChatPC and register for a ChatPC account.
+1. Follow the [Getting Started](/docs/macos/getting-started) guide to install the ChatPC and register for a ChatPC account
+
+1. **IMPORTANT: make sure you have the macOS Zoom app installed**
 
 1. Open ChatPC Settings > Actions > Zoom
 
