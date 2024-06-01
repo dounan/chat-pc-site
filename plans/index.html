@@ -10,7 +10,7 @@ layout: default
           Get started <span style="color: #56877c;">for free</span>
         </h1>
         <p class="fs-5 mb-4">
-          The free plan includes all paid features with a<br>lifetime limit of 20,000 <a href="#what-is-a-credit">credits</a> and 75 GPT <a href="#what-is-a-gpt-action">actions</a>.
+          The free plan includes all paid features with a<br>lifetime limit of 50,000 <a href="#what-is-a-credit">credits</a> and 75 GPT <a href="#what-is-a-gpt-action">actions</a>.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-center">
           <a class="btn btn-cta px-4 me-md-2" href="/docs/macos/getting-started/">Get started for free</a>
@@ -60,13 +60,19 @@ layout: default
             Credits are used each time you interact with the ChatPC AI. All words sent to or received from the AI, including words from performing actions (e.g. reading the contents of a file), count towards your credit usage.
           </p>
           <p>
-            The number of credits used varies based on word length and the specific AI model chosen. This table shows the <b>approximate</b> relationship between credits and words for each AI model.
+            The number of credits used varies based on word length and the specific AI model chosen.
+          </p>
+          <p>
+            AI generated (output) words consume ~3x the amount of credits as prompt (input) words.
+          </p>
+          <p>
+            This table shows the <b>approximate</b> relationship between credits and prompt (input) words for each AI model.
           </p>
           <table class="table table-striped">
             <thead>
               <tr>
                 <th scope="col">Model</th>
-                <th scope="col">1,000 credits</th>
+                <th scope="col">1M credits</th>
                 <th scope="col">Basic</th>
                 <th scope="col">Standard</th>
                 <th scope="col">Pro</th>
@@ -75,24 +81,17 @@ layout: default
             <tbody>
               <tr>
                 <th scope="row">gpt-3.5-turbo</th>
-                <td>~750 words</td>
-                <td>~750,000 words</td>
-                <td>~1,875,000 words</td>
-                <td>~3,000,000 words</td>
+                <td>~750K words</td>
+                <td>~3.75M words</td>
+                <td>~9M words</td>
+                <td>~14.25M words</td>
               </tr>
               <tr>
-                <th scope="row">gpt-4</th>
-                <td>~25 words</td>
-                <td>~25,000 words</td>
-                <td>~62,500 words</td>
-                <td>~100,000 words</td>
-              </tr>
-              <tr>
-                <th scope="row">gpt-4-turbo-preview</th>
-                <td>~60 words</td>
-                <td>~60,000 words</td>
-                <td>~150,000 words</td>
-                <td>~240,000 words</td>
+                <th scope="row">gpt-4o</th>
+                <td>~75K words</td>
+                <td>~375K words</td>
+                <td>~900K words</td>
+                <td>~1.4M words</td>
               </tr>
             </tbody>
           </table>
