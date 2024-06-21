@@ -17,6 +17,13 @@ layout: macos-docs
 
 1. If your Shortcut produces a text output, add a description for the output, including the format of the output, so the AI assistant knows how to use it.
 
+<video src="https://github.com/dounan/chat-pc-site/assets/1095431/f3e13720-a5db-4cc4-994f-42b76240ca4e" style="width: 500px;" controls playsinline>
+    <p>
+    Your browser doesn't support HTML video. Here is a
+    <a href="https://github.com/dounan/chat-pc-site/assets/1095431/f3e13720-a5db-4cc4-994f-42b76240ca4e">link to the video</a> instead.
+    </p>
+</video>
+
 ## AppleScript
 
 ChatPC can also run arbitrary AppleScript files that you place in the designated folder found at `Settings > Actions > AppleScripts > Show in Finder`.
