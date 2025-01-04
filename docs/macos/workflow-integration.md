@@ -1,11 +1,6 @@
 ---
 layout: macos-docs
+redirect_to: https://docs.chatpc.ai/workflow-integration/
 ---
 
-## Integrate seemlessly into your workflows
-
-In addition to the built-in ChatPC chat interface, you can also prompt ChatPC inside your Shortcuts or AppleScripts!
-
-![Prompt with Shortcuts](/images/docs/macos/workflow-integration/prompt-with-shortcuts.png)
-
-![Prompt with Shortcuts](/images/docs/macos/workflow-integration/prompt-with-applescript.png)
+Content moved to https://docs.chatpc.ai/workflow-integration/
